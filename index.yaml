@@ -3,12 +3,12 @@ entries:
   helm-microsservices:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-14T00:13:20.078436493-03:00"
+    created: "2025-02-14T00:18:15.307714426-03:00"
     description: A Helm chart for Kubernetes
     digest: 9337a52edd561d4f699504f311a04b39caee1236c8b8654db25e57981f555ead
     name: helm-microsservices
     type: application
     urls:
-    - https://marcelors1977.github.io/helm-chart-ms/helm-microsservices-0.1.0.tgz
+    - https://marcelors1977.github.io/helm-chart/helm-microsservices-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-14T00:13:20.078103055-03:00"
+generated: "2025-02-14T00:18:15.306501503-03:00"
