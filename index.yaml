@@ -9,6 +9,6 @@ entries:
     name: helm-microsservices
     type: application
     urls:
-    - https://marcelors1977.github.io/helm-chart/helm-microsservices-0.1.0.tgz
+    - https://marcelors1977.github.io/helm-charts/helm-microsservices-0.1.0.tgz
     version: 0.1.0
 generated: "2025-02-14T00:18:15.306501503-03:00"
